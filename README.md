@@ -8,7 +8,5 @@ Conceptual primality test combining the **Knot Prime Theorem** (knot diagrams �
 - Exact trial division up to 18 digits  
 - Proxy spectral signature (3 peaks = prime) for colossal numbers  
 
-Toy/exploratory project only — not for cryptographic use.
-
 **all you need is here** → [Read the paper (PDF)](https://github.com/AllenRodger22/khpc_prime_test---Riemann-Hypothesis/blob/main/KHPC.pdf)
 
