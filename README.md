@@ -10,7 +10,5 @@ Conceptual primality test combining the **Knot Prime Theorem** (knot diagrams �
 
 Toy/exploratory project only — not for cryptographic use.
 
-**Full details & proofs** → [Read the paper (PDF)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/framework_knot_sft.pdf)
+**all you need is here** → [Read the paper (PDF)](https://github.com/AllenRodger22/khpc_prime_test---Riemann-Hypothesis/blob/main/KHPC.pdf)
 
-## Implementation
-(... código Python aqui ...)
