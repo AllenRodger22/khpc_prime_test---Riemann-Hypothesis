@@ -22,7 +22,8 @@ By the **Fundamental Theorem of Arithmetic**, $(\mathbb{N}_{>0}, \times)$ is fre
 Any bijection $\phi: K_p \to P$ extends uniquely to a monoid isomorphism
 
 $$
-\Phi: (K, \#) \to (\mathbb{N}_{>0}, \times), \quad \Phi\left( \big\#_{i} K_{p_i}^{e_i} \right) = \prod_{i} p_i^{e_i} = n.
+\Phi \colon (K, \#) \to (\mathbb{N}_{>0}, \times), \qquad
+\Phi\!\left( \mathop{\#}_{i=1}^k K_{p_i}^{e_i} \right) = \prod_{i=1}^k p_i^{e_i} = n.
 $$
 
 ### 2. Spectral Signature
